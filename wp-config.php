@@ -20,16 +20,16 @@
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define( 'DB_NAME', 'iesppp_db' );
+define( 'DB_NAME', 'iespppuquio_db' );
 
 /** MySQL database username */
 define( 'DB_USER', 'root' );
 
 /** MySQL database password */
-define( 'DB_PASSWORD', 'root' );
+define( 'DB_PASSWORD', 'Administrador1.' );
 
 /** MySQL hostname */
-define( 'DB_HOST', 'localhost' );
+define( 'DB_HOST', '161.35.96.143' );
 
 /** Database Charset to use in creating database tables. */
 define( 'DB_CHARSET', 'utf8mb4' );
@@ -54,6 +54,8 @@ define( 'AUTH_SALT',        'rexZ{BT-ZP=~Q oksp/[$-I$$thf,#j)>/y+JN1&,.=WKUHJ{Kh
 define( 'SECURE_AUTH_SALT', ' 7&+/Y/ PQEPfUw|Fv++_ai*[ r]]u4KsO|^`.F9u=R:hgtg<G!B:CP.ZCC}R@v<' );
 define( 'LOGGED_IN_SALT',   ')w8Am|2a2r#O[/j$zhFDg]bUY309ET.:Z<:}W~f/5D[|frg1( uL}1%zQ)!=}->)' );
 define( 'NONCE_SALT',       'CTai~%jD&]N,ckgh+!W2ht$&F).iU{x`7H [boN^Uko(JT +`82cY%L~MXg+q{>b' );
+define( 'FS_METHOD', 'direct' );
+
 
 /**#@-*/
 
